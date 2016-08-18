@@ -7,3 +7,5 @@ Ingredients
 * cheese
 * bake it
 * eat it
+* eat some more
+* clean up
